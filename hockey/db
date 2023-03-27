@@ -1,0 +1,214 @@
+{
+    "Teams": [
+        {
+            "TeamName": "Albion",
+            "id": 0,
+            "Players": [
+                {
+                    "name": "Shay",
+                    "id": 0,
+                    "def": 1,
+                    "atck": 4
+                },
+                {
+                    "name": "Mikaela",
+                    "id": 1,
+                    "def": 4,
+                    "atck": 1
+                },
+                {
+                    "name": "Meara",
+                    "id": 2,
+                    "def": 2,
+                    "atck": 3
+                },
+                {
+                    "name": "Michaela",
+                    "id": 3,
+                    "def": 2,
+                    "atck": 4
+                },
+                {
+                    "name": "Dottie",
+                    "id": 4,
+                    "def": 4,
+                    "atck": 2
+                },
+                {
+                    "name": "Darelle",
+                    "id": 5,
+                    "def": 4,
+                    "atck": 2
+                }
+            ]
+        },
+        {
+            "TeamName": "Firecrackers",
+            "id": 1,
+            "Players": [
+                {
+                    "name": "Avis",
+                    "id": 0,
+                    "def": 4,
+                    "atck": 2
+                },
+                {
+                    "name": "Tonye",
+                    "id": 1,
+                    "def": 1,
+                    "atck": 4
+                },
+                {
+                    "name": "Meghan",
+                    "id": 2,
+                    "def": 3,
+                    "atck": 2
+                },
+                {
+                    "name": "Audry",
+                    "id": 3,
+                    "def": 1,
+                    "atck": 4
+                },
+                {
+                    "name": "Tarra",
+                    "id": 4,
+                    "def": 1,
+                    "atck": 2
+                },
+                {
+                    "name": "Steffie",
+                    "id": 5,
+                    "def": 3,
+                    "atck": 1
+                }
+            ]
+        },
+        {
+            "TeamName": "Cheetahs",
+            "id": 2,
+            "Players": [
+                {
+                    "name": "Bernardine",
+                    "id": 0,
+                    "def": 4,
+                    "atck": 2
+                },
+                {
+                    "name": "Gilda",
+                    "id": 1,
+                    "def": 1,
+                    "atck": 1
+                },
+                {
+                    "name": "Cherri",
+                    "id": 2,
+                    "def": 4,
+                    "atck": 3
+                },
+                {
+                    "name": "Rochella",
+                    "id": 3,
+                    "def": 3,
+                    "atck": 2
+                },
+                {
+                    "name": "Reiko",
+                    "id": 4,
+                    "def": 3,
+                    "atck": 1
+                },
+                {
+                    "name": "Melamie",
+                    "id": 5,
+                    "def": 2,
+                    "atck": 3
+                }
+            ]
+        },
+        {
+            "TeamName": "Stampede",
+            "id": 3,
+            "Players": [
+                {
+                    "name": "Wileen",
+                    "id": 0,
+                    "def": 1,
+                    "atck": 1
+                },
+                {
+                    "name": "Kettie",
+                    "id": 1,
+                    "def": 3,
+                    "atck": 2
+                },
+                {
+                    "name": "Britta",
+                    "id": 2,
+                    "def": 4,
+                    "atck": 1
+                },
+                {
+                    "name": "Jania",
+                    "id": 3,
+                    "def": 1,
+                    "atck": 4
+                },
+                {
+                    "name": "Susette",
+                    "id": 4,
+                    "def": 4,
+                    "atck": 1
+                },
+                {
+                    "name": "Bernelle",
+                    "id": 5,
+                    "def": 4,
+                    "atck": 1
+                }
+            ]
+        },
+        {
+            "TeamName": "Klingons",
+            "id": 4,
+            "Players": [
+                {
+                    "name": "Gabriela",
+                    "id": 0,
+                    "def": 3,
+                    "atck": 1
+                },
+                {
+                    "name": "Raine",
+                    "id": 1,
+                    "def": 4,
+                    "atck": 3
+                },
+                {
+                    "name": "Cilka",
+                    "id": 2,
+                    "def": 3,
+                    "atck": 4
+                },
+                {
+                    "name": "Kaila",
+                    "id": 3,
+                    "def": 4,
+                    "atck": 3
+                },
+                {
+                    "name": "Ailina",
+                    "id": 4,
+                    "def": 2,
+                    "atck": 2
+                },
+                {
+                    "name": "Helyn",
+                    "id": 5,
+                    "def": 1,
+                    "atck": 3
+                }
+            ]
+        }
+    ]
+}

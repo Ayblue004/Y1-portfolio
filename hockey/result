@@ -1,0 +1,43 @@
+{
+    "Results": [
+        {
+            "atlas": 1,
+            "chelsea": 2
+        },
+        {
+            "Firecrackers": 1,
+            "Albion": 1
+        },
+        {
+            "Firecrackers": 2,
+            "Cheetahs": 3
+        },
+        {
+            "Stampede": 3,
+            "Albion": 4
+        },
+        {
+            "Stampede": 3,
+            "Cheetahs": 1
+        },
+        {
+            "Firecrackers": 1,
+            "Albion": 0
+        },
+        {
+            "Firecrackers": 1
+        },
+        {
+            "Firecrackers": 0,
+            "Cheetahs": 0
+        },
+        {
+            "Firecrackers": 2,
+            "Stampede": 1
+        },
+        {
+            "Cheetahs": 3,
+            "Klingons": 2
+        }
+    ]
+}
